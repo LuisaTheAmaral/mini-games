@@ -1,5 +1,7 @@
-# mini_games
+# Mini_games
 
-Simple animation to start off with processing
+# screensaveranimation
+
+Simple animation to start off with processing, based on the classic DVD logo animation
 
 ![](animation.gif)
