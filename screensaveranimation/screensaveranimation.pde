@@ -9,11 +9,11 @@ float speedX, speedY;
 public void setup() {
   
   // use the P2D rendering engine.
-  size(800, 800); 
-  width = 800;
-  height = 800;
-  circleX = random(0, 800- circleWidth/2);
-  circleY = random(0, 800 - circleHeight/2);
+  size(400, 400); 
+  width = 400;
+  height = 400;
+  circleX = random(0, width- circleWidth/2);
+  circleY = random(0, height - circleHeight/2);
   speedX = random(1, 10);
   speedY = random(1, 10);
 }

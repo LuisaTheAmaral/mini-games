@@ -12,8 +12,8 @@ function setup() {
   createCanvas(1900, 900); 
   width = 1900;
   height = 900;
-  circleX = random(0, 800- circleWidth/2);
-  circleY = random(0, 800 - circleHeight/2);
+  circleX = random(0, width- circleWidth/2);
+  circleY = random(0, height - circleHeight/2);
   speedX = random(1, 10);
   speedY = random(1, 10);
 }
