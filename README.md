@@ -10,4 +10,4 @@ Simple animation to start off with processing, based on the classic DVD logo ani
 
 Testing the laws of gravity with this simple game, includes health bar and score.
 
-![] (animation2.gif)
+![](animation2.gif)
